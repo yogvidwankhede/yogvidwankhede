@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/yogvid-wankhede-149103231/"><img src="./assets/soc-linkedin.svg?v=1" height="34" alt="LinkedIn"/></a>
 <a href="mailto:yogvidwankhede@gmail.com"><img src="./assets/soc-email.svg?v=1" height="34" alt="Email"/></a>
 <a href="https://huggingface.co/yogvidwankhede"><img src="./assets/soc-hf.svg?v=1" height="34" alt="Hugging Face"/></a>
-&nbsp;<img src="https://komarev.com/ghpvc/?username=yogvidwankhede&style=flat-square&color=22d3ee&label=VISITORS" height="26"/>
+&nbsp;<img src="./assets/soc-visitors.svg?v=1" height="34" alt="Visitors 12.6K"/>
 
 </div>
 

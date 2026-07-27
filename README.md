@@ -25,20 +25,32 @@
 
 <br/>
 
+<!-- CONTRIBUTION SNAKE — full width -->
+<img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake-live.svg?c=w2" />
+
+<br/><br/>
+
+<!-- PROJECTS (2x3 grid) on the left, ACTIVITY GRAPH beside it -->
 <table>
 <tr>
-<td valign="top" width="56%">
-<img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake-live.svg?c=w2" />
-<br/><br/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogvidwankhede&bg_color=0A0F1C&color=22D3EE&line=818CF8&point=34D399&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="contribution activity graph"/>
+<td width="56%" valign="top">
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/yogvidwankhede/vishwakarma"><img src="./assets/vishwakarma.svg?v=1" width="100%" alt="vishwakarma"/></a></td>
+<td width="50%"><a href="https://github.com/yogvidwankhede/HealthMate-AI"><img src="./assets/healthmate.svg?v=1" width="100%" alt="HealthMate-AI"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/yogvidwankhede/Sign_Language_Interpreter"><img src="./assets/sign.svg?v=1" width="100%" alt="Sign Language Interpreter"/></a></td>
+<td width="50%"><a href="https://github.com/yogvidwankhede/Fake_News_Detection"><img src="./assets/fake.svg?v=1" width="100%" alt="Fake News Detection"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/yogvidwankhede/sentiment-api"><img src="./assets/sentiment.svg?v=1" width="100%" alt="sentiment-api"/></a></td>
+<td width="50%"><a href="https://github.com/yogvidwankhede/private-dns-extension"><img src="./assets/dns.svg?v=1" width="100%" alt="private-dns-extension"/></a></td>
+</tr>
+</table>
 </td>
-<td valign="top" width="44%">
-<a href="https://github.com/yogvidwankhede/vishwakarma"><img src="./assets/vishwakarma.svg?v=1" width="100%" alt="vishwakarma"/></a><br/>
-<a href="https://github.com/yogvidwankhede/HealthMate-AI"><img src="./assets/healthmate.svg?v=1" width="100%" alt="HealthMate-AI"/></a><br/>
-<a href="https://github.com/yogvidwankhede/Sign_Language_Interpreter"><img src="./assets/sign.svg?v=1" width="100%" alt="Sign Language Interpreter"/></a><br/>
-<a href="https://github.com/yogvidwankhede/Fake_News_Detection"><img src="./assets/fake.svg?v=1" width="100%" alt="Fake News Detection"/></a><br/>
-<a href="https://github.com/yogvidwankhede/sentiment-api"><img src="./assets/sentiment.svg?v=1" width="100%" alt="sentiment-api"/></a><br/>
-<a href="https://github.com/yogvidwankhede/private-dns-extension"><img src="./assets/dns.svg?v=1" width="100%" alt="private-dns-extension"/></a>
+<td width="44%" valign="top">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogvidwankhede&bg_color=0A0F1C&color=22D3EE&line=818CF8&point=34D399&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="contribution activity graph"/>
 </td>
 </tr>
 </table>

@@ -12,7 +12,7 @@
 <a href="https://huggingface.co/yogvidwankhede"><img src="./assets/ic-hf.svg?v=1" width="34" alt="Hugging Face"/></a>
 </td>
 <td width="93%" valign="middle">
-<a href="https://www.yogvidwankhede.com"><img src="./assets/hero-banner.svg?v=8" width="100%" alt="Yogvid Wankhede — AI Engineer · Full-Stack Developer · ML Engineer" /></a>
+<a href="https://www.yogvidwankhede.com"><img src="./assets/hero-banner.svg?v=9" width="100%" alt="Yogvid Wankhede — AI Engineer · Full-Stack Developer · ML Engineer" /></a>
 </td>
 </tr>
 </table>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="50" viewBox="0 0 400 50" fill="none" role="img" aria-label="Fake News Detection">
+  <defs>
+    <clipPath id="c2"><rect x="1" y="1" width="398" height="48" rx="11"/></clipPath>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34d399" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#c2)">
+    <rect x="1" y="1" width="398" height="48" rx="11" fill="#0b1120"/>
+    <rect x="1" y="1" width="398" height="48" fill="url(#g2)"/>
+    <rect x="-90" y="1" width="90" height="48" fill="#34d399" opacity="0.14"><animate attributeName="x" values="-90;400" dur="3.2s" repeatCount="indefinite"/></rect>
+    <rect x="1" y="1" width="4" height="48" fill="#34d399"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/></rect>
+    <text x="26" y="32" font-size="19" fill="#34d399">📰</text>
+    <text x="52" y="31" font-family="'JetBrains Mono','Courier New',monospace" font-size="15" font-weight="700" fill="#e7edf7">Fake News Detection</text>
+    <text x="376" y="31" font-size="15" fill="#34d399">&#8599;</text>
+  </g>
+  <rect x="1" y="1" width="398" height="48" rx="11" fill="none" stroke="#34d399" stroke-opacity="0.55"><animate attributeName="stroke-opacity" values="0.25;0.85;0.25" dur="2.8s" repeatCount="indefinite"/></rect>
+</svg>

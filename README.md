@@ -52,20 +52,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yogvidwankhede&show_icons=true&count_private=true&hide_border=true&bg_color=0A0F1C&title_color=22D3EE&icon_color=818CF8&text_color=8A97B2&ring_color=34D399" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yogvidwankhede&hide_border=true&background=0A0F1C&stroke=1B2740&ring=22D3EE&fire=34D399&currStreakLabel=22D3EE&sideLabels=8A97B2&dates=5C6883&currStreakNum=E7EDF7&sideNums=E7EDF7" alt="streak"/>
+<img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake.svg" />
 
 <br/><br/>
 
-<!-- CONTRIBUTION SNAKE (populated by GitHub Action) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake.svg" />
-</picture>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogvidwankhede&bg_color=0A0F1C&color=22D3EE&line=818CF8&point=34D399&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogvidwankhede&bg_color=0A0F1C&color=22D3EE&line=818CF8&point=34D399&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="contribution activity graph"/>
 
 </div>
 

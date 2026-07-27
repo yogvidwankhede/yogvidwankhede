@@ -21,15 +21,11 @@
 <table>
 <tr>
 <td valign="top" width="56%">
-<div align="center"><b>&#9670; CONTRIBUTION SNAKE &#9670;</b></div>
-<br/>
 <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake.svg?v=3" />
 <br/><br/>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogvidwankhede&bg_color=0A0F1C&color=22D3EE&line=818CF8&point=34D399&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="contribution activity graph"/>
 </td>
 <td valign="top" width="44%">
-<div align="center"><b>&#9670; PROJECTS &#9670;</b></div>
-<br/>
 <a href="https://github.com/yogvidwankhede/vishwakarma"><img src="./assets/vishwakarma.svg?v=1" width="100%" alt="vishwakarma"/></a><br/>
 <a href="https://github.com/yogvidwankhede/HealthMate-AI"><img src="./assets/healthmate.svg?v=1" width="100%" alt="HealthMate-AI"/></a><br/>
 <a href="https://github.com/yogvidwankhede/Sign_Language_Interpreter"><img src="./assets/sign.svg?v=1" width="100%" alt="Sign Language Interpreter"/></a><br/>

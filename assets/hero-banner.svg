@@ -99,7 +99,7 @@
 
   <!-- tagline -->
   <text x="600" y="300" text-anchor="middle" class="mono" font-size="13" fill="#8a97b2">
-    building systems that think, ship &amp; feel alive
+    turning complex data into intelligent systems
     <animate attributeName="opacity" values="0;1" dur="1s" begin="1.4s" fill="freeze"/>
   </text>
 

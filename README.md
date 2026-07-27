@@ -1,36 +1,27 @@
 <!-- YOGVID.OS profile README · github.com/yogvidwankhede -->
 
-<table>
-<tr>
-<td width="26%" valign="middle" align="center">
-<img src="./assets/soc-visitors.svg?v=1" height="32" alt="Visitors 12.6K"/>
-<br/>
-<a href="https://www.yogvidwankhede.com"><img src="./assets/soc-portfolio.svg?v=1" height="32" alt="Portfolio"/></a>
-<br/>
-<a href="https://www.linkedin.com/in/yogvid-wankhede-149103231/"><img src="./assets/soc-linkedin.svg?v=1" height="32" alt="LinkedIn"/></a>
-<br/>
-<a href="mailto:yogvidwankhede@gmail.com"><img src="./assets/soc-email.svg?v=1" height="32" alt="Email"/></a>
-<br/>
-<a href="https://huggingface.co/yogvidwankhede"><img src="./assets/soc-hf.svg?v=1" height="32" alt="Hugging Face"/></a>
-</td>
-<td width="74%" valign="middle">
-<a href="https://www.yogvidwankhede.com"><img src="./assets/hero-banner.svg?v=3" width="100%" alt="Yogvid Wankhede — AI Engineer · Full-Stack Developer · ML Engineer" /></a>
-</td>
-</tr>
-</table>
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=22D3EE&center=true&vCenter=true&width=780&lines=%3E+I+specialize+in+AI+%26+Machine+Learning;%3E+shipping+6-stage+LLM+reasoning+pipelines+in+production;%3E+turning+complex+data+into+intelligent+systems" alt="typing intro" />
+
+<a href="https://www.yogvidwankhede.com"><img src="./assets/hero-banner.svg?v=4" width="100%" alt="Yogvid Wankhede — AI Engineer · Full-Stack Developer · ML Engineer" /></a>
+
+<img src="./assets/soc-visitors.svg?v=2" height="30" alt="Visitors 12.6K"/>
+&nbsp;
+<a href="https://www.yogvidwankhede.com"><img src="./assets/soc-portfolio.svg?v=2" height="30" alt="Portfolio"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/yogvid-wankhede-149103231/"><img src="./assets/soc-linkedin.svg?v=2" height="30" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:yogvidwankhede@gmail.com"><img src="./assets/soc-email.svg?v=2" height="30" alt="Email"/></a>
+&nbsp;
+<a href="https://huggingface.co/yogvidwankhede"><img src="./assets/soc-hf.svg?v=2" height="30" alt="Hugging Face"/></a>
+
 </div>
 
 <br/>
 
-<!-- CONTRIBUTION SNAKE — full width -->
 <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake-live.svg?c=w2" />
 
 <br/><br/>
 
-<!-- PROJECTS (2x3 grid) on the left, ACTIVITY GRAPH beside it -->
 <table>
 <tr>
 <td valign="top">

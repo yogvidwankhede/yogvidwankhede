@@ -16,17 +16,9 @@
 
 <!-- WHOAMI (merged into hero) -->
 
-```yaml
-visitor@yogvid.os:~$ whoami --verbose
-
-  name:      Yogvid Wankhede   ·   he/him
-  status:    ● open_to_opportunities  (AI / Full-Stack / ML · 2026)
-  now:       Software Engineering Intern @ EUNO — production LLM agents
-  studying:  M.S. Data Analytics & Statistics @ Washington University in St. Louis
-  certified: Anthropic — AI Fluency + Claude 101
-  mission:   transform complex data into intelligent systems & actionable insights
-  location:  St. Louis, MO · response_time < 24h
-```
+<div align="center">
+<a href="https://www.yogvidwankhede.com"><img src="./assets/whoami.svg?v=1" width="90%" alt="whoami --verbose — Yogvid Wankhede"/></a>
+</div>
 
 <div align="center">
 

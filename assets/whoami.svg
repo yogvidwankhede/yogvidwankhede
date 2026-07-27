@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="392" viewBox="0 0 880 392" fill="none" role="img" aria-label="whoami --verbose: Yogvid Wankhede">
+  <defs>
+    <linearGradient id="wbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1120"/>
+      <stop offset="1" stop-color="#070b14"/>
+    </linearGradient>
+    <radialGradient id="wglow" cx="50%" cy="0%" r="70%">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#070b14" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .m{font-family:'JetBrains Mono','Courier New',monospace;font-size:15px;}
+      .k{fill:#34d399} .v{fill:#e7edf7} .c{fill:#22d3ee} .p{fill:#818cf8} .d{fill:#8a97b2}
+      .ln{opacity:0}
+      @keyframes bl{0%,49%{opacity:1}50%,100%{opacity:0}}
+      .cur{animation:bl 1s steps(1) infinite}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="878" height="390" rx="14" fill="url(#wbg)" stroke="#1b2740"/>
+  <rect x="1" y="1" width="878" height="390" rx="14" fill="url(#wglow)"/>
+  <path d="M1 15 A14 14 0 0 1 15 1 H865 A14 14 0 0 1 879 15 V44 H1 Z" fill="#0a0f1c"/>
+  <line x1="1" y1="44" x2="879" y2="44" stroke="#1b2740"/>
+  <circle cx="26" cy="23" r="6" fill="#fb7185"/>
+  <circle cx="46" cy="23" r="6" fill="#fbbf24"/>
+  <circle cx="66" cy="23" r="6" fill="#34d399"/>
+  <text x="92" y="28" class="m d">yogvid@github: <tspan class="c">~/whoami</tspan></text>
+  <text x="820" y="28" class="m" fill="#34d399" font-size="12">● live</text>
+  <g class="ln"><text x="28" y="86" class="m"><tspan class="p">visitor@yogvid.os</tspan><tspan class="d">:~$</tspan> <tspan class="v">whoami --verbose</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.2s" begin="0.2s" fill="freeze"/></g>
+  <g class="ln"><text x="44" y="128" class="m"><tspan class="k">name:</tspan><tspan class="v" dx="34">Yogvid Wankhede</tspan><tspan class="d" dx="20">·</tspan><tspan class="d" dx="14">he/him</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.2s" begin="0.7s" fill="freeze"/></g>
+  <g class="ln"><text x="44" y="160" class="m"><tspan class="k">status:</tspan><tspan class="c" dx="18">●</tspan> <tspan class="c">open_to_opportunities</tspan><tspan class="d" dx="14">(AI / Full-Stack / ML · 2026)</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.2s" begin="1.15s" fill="freeze"/></g>
+  <g class="ln"><text x="44" y="192" class="m"><tspan class="k">now:</tspan><tspan class="v" dx="44">Software Engineering Intern</tspan> <tspan class="p">@ EUNO</tspan><tspan class="d" dx="8">— production LLM agents</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.2s" begin="1.6s" fill="freeze"/></g>
+  <g class="ln"><text x="44" y="224" class="m"><tspan class="k">studying:</tspan><tspan class="v" dx="8">M.S. Data Analytics &amp; Statistics</tspan> <tspan class="p">@ WashU</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.2s" begin="2.05s" fill="freeze"/></g>
+  <g class="ln"><text x="44" y="256" class="m"><tspan class="k">certified:</tspan><tspan class="v" dx="8">Anthropic</tspan> <tspan class="c">— AI Fluency + Claude 101</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.2s" begin="2.5s" fill="freeze"/></g>
+  <g class="ln"><text x="44" y="288" class="m"><tspan class="k">mission:</tspan><tspan class="v" dx="18">transform complex data into intelligent systems &amp; actionable insights</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.2s" begin="2.95s" fill="freeze"/></g>
+  <g class="ln"><text x="44" y="320" class="m"><tspan class="k">location:</tspan><tspan class="v" dx="8">St. Louis, MO</tspan><tspan class="d" dx="14">· response_time &lt; 24h</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.2s" begin="3.4s" fill="freeze"/></g>
+  <g class="ln"><text x="28" y="360" class="m"><tspan class="p">visitor@yogvid.os</tspan><tspan class="d">:~$</tspan> <tspan class="c cur">▋</tspan></text>
+    <animate attributeName="opacity" values="0;1" dur="0.2s" begin="3.9s" fill="freeze"/></g>
+</svg>

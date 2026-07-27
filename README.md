@@ -40,6 +40,7 @@ visitor@yogvid.os:~$ whoami --verbose
 <a href="https://github.com/yogvidwankhede/sentiment-api"><img src="https://img.shields.io/badge/🌐_sentiment--api-0A0F1C?style=for-the-badge&labelColor=0A0F1C&color=22D3EE" height="30"/></a>
 <a href="https://github.com/yogvidwankhede/PyShell"><img src="https://img.shields.io/badge/🐚_PyShell-0A0F1C?style=for-the-badge&labelColor=0A0F1C&color=818CF8" height="30"/></a>
 <a href="https://github.com/yogvidwankhede/private-dns-extension"><img src="https://img.shields.io/badge/🛡️_private--dns--extension-0A0F1C?style=for-the-badge&labelColor=0A0F1C&color=34D399" height="30"/></a>
+<a href="https://github.com/yogvidwankhede/vishwakarma"><img src="https://img.shields.io/badge/🛠️_vishwakarma-0A0F1C?style=for-the-badge&labelColor=0A0F1C&color=22D3EE" height="30"/></a>
 
 <br/><br/>
 

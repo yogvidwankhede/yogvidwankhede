@@ -26,13 +26,14 @@
 <td valign="top" width="46%">
 <div align="center"><b>&#9670; PINNED PROJECTS &#9670;</b></div>
 <br/>
+
+<a href="https://github.com/yogvidwankhede/vishwakarma"><img src="./assets/vishwakarma.svg?v=1" width="100%" alt="vishwakarma"/></a><br/>
 <a href="https://github.com/yogvidwankhede/HealthMate-AI"><img src="./assets/healthmate.svg?v=1" width="100%" alt="HealthMate-AI"/></a><br/>
 <a href="https://github.com/yogvidwankhede/Sign_Language_Interpreter"><img src="./assets/sign.svg?v=1" width="100%" alt="Sign Language Interpreter"/></a><br/>
 <a href="https://github.com/yogvidwankhede/Fake_News_Detection"><img src="./assets/fake.svg?v=1" width="100%" alt="Fake News Detection"/></a><br/>
 <a href="https://github.com/yogvidwankhede/sentiment-api"><img src="./assets/sentiment.svg?v=1" width="100%" alt="sentiment-api"/></a><br/>
-<a href="https://github.com/yogvidwankhede/PyShell"><img src="./assets/pyshell.svg?v=1" width="100%" alt="PyShell"/></a><br/>
-<a href="https://github.com/yogvidwankhede/private-dns-extension"><img src="./assets/dns.svg?v=1" width="100%" alt="private-dns-extension"/></a><br/>
-<a href="https://github.com/yogvidwankhede/vishwakarma"><img src="./assets/vishwakarma.svg?v=1" width="100%" alt="vishwakarma"/></a>
+<a href="https://github.com/yogvidwankhede/private-dns-extension"><img src="./assets/dns.svg?v=1" width="100%" alt="private-dns-extension"/></a>
+
 </td>
 </tr>
 </table>
@@ -43,7 +44,7 @@
 
 <div align="center">
 
-<img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake.svg" />
+<img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake.svg?v=2" />
 
 <br/><br/>
 

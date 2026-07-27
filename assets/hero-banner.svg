@@ -106,12 +106,12 @@
   <!-- status pills -->
   <g class="mono" font-size="12" opacity="0">
     <animate attributeName="opacity" values="0;1" dur="1s" begin="1.8s" fill="freeze"/>
-    <g transform="translate(430,348)">
+    <g transform="translate(415,348)">
       <rect x="0" y="0" width="150" height="26" rx="13" fill="#0a0f1c" stroke="#1b2740"/>
       <circle cx="16" cy="13" r="4" fill="#34d399"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
       <text x="30" y="17" fill="#34d399">OPEN TO 2026 ROLES</text>
     </g>
-    <g transform="translate(600,348)">
+    <g transform="translate(590,348)">
       <rect x="0" y="0" width="170" height="26" rx="13" fill="#0a0f1c" stroke="#1b2740"/>
       <text x="14" y="17" fill="#22d3ee">ANTHROPIC-CERTIFIED · M.S. @ WASHU</text>
     </g>

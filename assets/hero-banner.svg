@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-label="Yogvid Wankhede — AI Engineer, Full-Stack Developer, Experience Creator">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05060a"/>
+      <stop offset="0.55" stop-color="#080c16"/>
+      <stop offset="1" stop-color="#0a1120"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#34d399"/>
+      <animate attributeName="x1" values="0;0.4;0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;1.4;1" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="40%" r="60%">
+      <stop offset="0" stop-color="#4f46e5" stop-opacity="0.28"/>
+      <stop offset="0.5" stop-color="#22d3ee" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#05060a" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="2.2"/></filter>
+    <style>
+      .mono{font-family:'JetBrains Mono','Courier New',monospace;}
+      .disp{font-family:'Segoe UI','Space Grotesk',Helvetica,Arial,sans-serif;font-weight:700;}
+      .node{fill:#22d3ee}
+      .link{stroke:#22d3ee;stroke-width:0.8}
+      @keyframes drift{0%{transform:translateY(0)}50%{transform:translateY(-6px)}100%{transform:translateY(0)}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="380" fill="url(#bg)"/>
+  <rect width="1200" height="380" fill="url(#glow)"/>
+
+  <!-- grid -->
+  <g stroke="#141c30" stroke-width="1" opacity="0.5">
+    <path d="M0 60 H1200 M0 120 H1200 M0 180 H1200 M0 240 H1200 M0 300 H1200"/>
+    <path d="M120 0 V380 M240 0 V380 M360 0 V380 M480 0 V380 M600 0 V380 M720 0 V380 M840 0 V380 M960 0 V380 M1080 0 V380"/>
+  </g>
+
+  <!-- neural network -->
+  <g opacity="0.9">
+    <line class="link" x1="140" y1="90" x2="250" y2="150"><animate attributeName="opacity" values="0.15;0.6;0.15" dur="4s" repeatCount="indefinite"/></line>
+    <line class="link" x1="250" y1="150" x2="180" y2="250"><animate attributeName="opacity" values="0.5;0.15;0.5" dur="5s" repeatCount="indefinite"/></line>
+    <line class="link" x1="250" y1="150" x2="380" y2="110"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.5s" repeatCount="indefinite"/></line>
+    <line class="link" x1="1050" y1="90" x2="960" y2="180"><animate attributeName="opacity" values="0.15;0.6;0.15" dur="4.5s" repeatCount="indefinite"/></line>
+    <line class="link" x1="960" y1="180" x2="1080" y2="270"><animate attributeName="opacity" values="0.5;0.15;0.5" dur="4s" repeatCount="indefinite"/></line>
+    <line class="link" x1="960" y1="180" x2="1030" y2="300"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="5.5s" repeatCount="indefinite"/></line>
+    <g style="animation:drift 6s ease-in-out infinite">
+      <circle class="node" cx="140" cy="90" r="3.5"><animate attributeName="r" values="3;5;3" dur="3s" repeatCount="indefinite"/></circle>
+      <circle class="node" cx="250" cy="150" r="4"/>
+      <circle class="node" cx="180" cy="250" r="3"><animate attributeName="r" values="2.5;4.5;2.5" dur="4s" repeatCount="indefinite"/></circle>
+      <circle class="node" cx="380" cy="110" r="2.6"/>
+    </g>
+    <g style="animation:drift 7s ease-in-out infinite">
+      <circle class="node" cx="1050" cy="90" r="3.5"><animate attributeName="r" values="3;5;3" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle class="node" cx="960" cy="180" r="4"/>
+      <circle class="node" cx="1080" cy="270" r="3"/>
+      <circle class="node" cx="1030" cy="300" r="2.6"><animate attributeName="r" values="2.5;4.5;2.5" dur="4.6s" repeatCount="indefinite"/></circle>
+    </g>
+    <!-- travelling pulse -->
+    <circle r="3" fill="#e7edf7">
+      <animateMotion dur="3.5s" repeatCount="indefinite" path="M140 90 L250 150 L380 110"/>
+      <animate attributeName="opacity" values="0;1;0" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#34d399">
+      <animateMotion dur="4.2s" repeatCount="indefinite" path="M1050 90 L960 180 L1080 270"/>
+      <animate attributeName="opacity" values="0;1;0" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- terminal prompt -->
+  <text x="600" y="98" text-anchor="middle" class="mono" font-size="15" fill="#5c6883">
+    <tspan fill="#818cf8">visitor@yogvid.os</tspan> ~ <tspan fill="#8a97b2">./run --profile</tspan>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze"/>
+  </text>
+
+  <!-- NAME -->
+  <text x="600" y="188" text-anchor="middle" class="disp" font-size="76" fill="url(#name)" letter-spacing="-1">YOGVID WANKHEDE
+    <animate attributeName="opacity" values="0;1" dur="1s" begin="0.3s" fill="freeze"/>
+  </text>
+
+  <!-- underline sweep -->
+  <rect x="360" y="208" width="480" height="2" fill="#22d3ee" opacity="0.6">
+    <animate attributeName="width" values="0;480" dur="1.2s" begin="0.6s" fill="freeze"/>
+    <animate attributeName="x" values="600;360" dur="1.2s" begin="0.6s" fill="freeze"/>
+  </rect>
+
+  <!-- CYCLING ROLES -->
+  <g class="mono" font-size="22" text-anchor="middle">
+    <text x="600" y="250" fill="#22d3ee">AI ENGINEER
+      <animate attributeName="opacity" values="0;1;1;0;0;0;0;0" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="250" fill="#818cf8">FULL-STACK DEVELOPER
+      <animate attributeName="opacity" values="0;0;0;1;1;0;0;0" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="250" fill="#34d399">GAME / EXPERIENCE CREATOR
+      <animate attributeName="opacity" values="0;0;0;0;0;1;1;0" dur="9s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- tagline -->
+  <text x="600" y="300" text-anchor="middle" class="mono" font-size="13" fill="#8a97b2">
+    building systems that think, ship &amp; feel alive
+    <animate attributeName="opacity" values="0;1" dur="1s" begin="1.4s" fill="freeze"/>
+  </text>
+
+  <!-- status pills -->
+  <g class="mono" font-size="12" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="1s" begin="1.8s" fill="freeze"/>
+    <g transform="translate(430,330)">
+      <rect x="0" y="0" width="150" height="26" rx="13" fill="#0a0f1c" stroke="#1b2740"/>
+      <circle cx="16" cy="13" r="4" fill="#34d399"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+      <text x="30" y="17" fill="#34d399">OPEN TO 2026 ROLES</text>
+    </g>
+    <g transform="translate(600,330)">
+      <rect x="0" y="0" width="170" height="26" rx="13" fill="#0a0f1c" stroke="#1b2740"/>
+      <text x="14" y="17" fill="#22d3ee">ANTHROPIC-CERTIFIED · M.S. @ WASHU</text>
+    </g>
+  </g>
+</svg>

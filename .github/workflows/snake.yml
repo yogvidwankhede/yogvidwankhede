@@ -18,10 +18,11 @@ jobs:
           outputs: |
             dist/snake-live.svg?palette=github-dark&color_snake=white
             dist/snake-live-dark.svg?palette=github-dark&color_snake=white
-      - name: Trim snake (drop progress bar + crop bottom gap)
+      - name: Trim snake (drop progress bar + crop blank top/bottom)
         run: |
           for f in dist/*.svg; do
-            sed -i 's/192"/146"/g' "$f"
+            sed -i 's/-16 -32 \([0-9]*\) 192/-16 -6 \1 120/' "$f"
+            sed -i 's/height="192"/height="120"/g' "$f"
             sed -i 's#<rect class="u[^>]*/>##g' "$f"
           done
       - name: Push to output branch

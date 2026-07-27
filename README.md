@@ -22,7 +22,7 @@
 <td width="75%" valign="top">
 <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake-live.svg?c=w5" />
 <br/><br/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogvidwankhede&bg_color=0A0F1C&color=22D3EE&line=818CF8&point=34D399&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogvidwankhede&bg_color=0A0F1C&color=22D3EE&line=818CF8&point=34D399&area=true&hide_border=true&hide_title=true" alt="contribution activity graph"/>
 </td>
 <td width="25%" valign="top">
 <a href="https://github.com/yogvidwankhede/vishwakarma"><img src="./assets/vishwakarma.svg?v=1" width="100%" alt="vishwakarma"/></a><br/>

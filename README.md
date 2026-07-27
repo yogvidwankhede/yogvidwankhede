@@ -33,24 +33,24 @@
 <!-- PROJECTS (2x3 grid) on the left, ACTIVITY GRAPH beside it -->
 <table>
 <tr>
-<td width="56%" valign="top">
+<td valign="top">
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/yogvidwankhede/vishwakarma"><img src="./assets/vishwakarma.svg?v=1" width="100%" alt="vishwakarma"/></a></td>
-<td width="50%"><a href="https://github.com/yogvidwankhede/HealthMate-AI"><img src="./assets/healthmate.svg?v=1" width="100%" alt="HealthMate-AI"/></a></td>
+<td><a href="https://github.com/yogvidwankhede/vishwakarma"><img src="./assets/vishwakarma.svg?v=1" width="200" alt="vishwakarma"/></a></td>
+<td><a href="https://github.com/yogvidwankhede/HealthMate-AI"><img src="./assets/healthmate.svg?v=1" width="200" alt="HealthMate-AI"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/yogvidwankhede/Sign_Language_Interpreter"><img src="./assets/sign.svg?v=1" width="100%" alt="Sign Language Interpreter"/></a></td>
-<td width="50%"><a href="https://github.com/yogvidwankhede/Fake_News_Detection"><img src="./assets/fake.svg?v=1" width="100%" alt="Fake News Detection"/></a></td>
+<td><a href="https://github.com/yogvidwankhede/Sign_Language_Interpreter"><img src="./assets/sign.svg?v=1" width="200" alt="Sign Language Interpreter"/></a></td>
+<td><a href="https://github.com/yogvidwankhede/Fake_News_Detection"><img src="./assets/fake.svg?v=1" width="200" alt="Fake News Detection"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/yogvidwankhede/sentiment-api"><img src="./assets/sentiment.svg?v=1" width="100%" alt="sentiment-api"/></a></td>
-<td width="50%"><a href="https://github.com/yogvidwankhede/private-dns-extension"><img src="./assets/dns.svg?v=1" width="100%" alt="private-dns-extension"/></a></td>
+<td><a href="https://github.com/yogvidwankhede/sentiment-api"><img src="./assets/sentiment.svg?v=1" width="200" alt="sentiment-api"/></a></td>
+<td><a href="https://github.com/yogvidwankhede/private-dns-extension"><img src="./assets/dns.svg?v=1" width="200" alt="private-dns-extension"/></a></td>
 </tr>
 </table>
 </td>
-<td width="44%" valign="top">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogvidwankhede&bg_color=0A0F1C&color=22D3EE&line=818CF8&point=34D399&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="contribution activity graph"/>
+<td valign="top" align="center">
+<img width="340" src="https://github-readme-activity-graph.vercel.app/graph?username=yogvidwankhede&bg_color=0A0F1C&color=22D3EE&line=818CF8&point=34D399&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="contribution activity graph"/>
 </td>
 </tr>
 </table>

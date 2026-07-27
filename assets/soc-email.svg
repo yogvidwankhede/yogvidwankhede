@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="40" viewBox="0 0 126 40" fill="none" role="img" aria-label="Email">
+  <defs><clipPath id="s2"><rect x="1" y="1" width="124" height="38" rx="19"/></clipPath></defs>
+  <g clip-path="url(#s2)">
+    <rect x="1" y="1" width="124" height="38" rx="19" fill="#0b1120"/>
+    <rect x="-70" y="1" width="70" height="38" fill="#34d399" opacity="0.18"><animate attributeName="x" values="-70;126" dur="3s" repeatCount="indefinite"/></rect>
+    <text x="20" y="26" font-family="'JetBrains Mono',monospace" font-size="16" font-weight="700" fill="#34d399">✉</text>
+    <text x="44" y="25" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#e7edf7">Email</text>
+  </g>
+  <rect x="1" y="1" width="124" height="38" rx="19" fill="none" stroke="#34d399" stroke-opacity="0.55"><animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.6s" repeatCount="indefinite"/></rect>
+</svg>

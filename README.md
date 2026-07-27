@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://www.yogvidwankhede.com"><img src="https://img.shields.io/badge/Portfolio-0A0F1C?style=flat-square&logo=vercel&logoColor=22D3EE" height="26"/></a>
-<a href="https://www.linkedin.com/in/yogvid-wankhede-149103231/"><img src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=flat-square&logo=linkedin&logoColor=22D3EE" height="26"/></a>
-<a href="mailto:yogvidwankhede@gmail.com"><img src="https://img.shields.io/badge/Email-0A0F1C?style=flat-square&logo=gmail&logoColor=22D3EE" height="26"/></a>
-<a href="https://huggingface.co/yogvidwankhede"><img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-0A0F1C?style=flat-square&logoColor=22D3EE" height="26"/></a>
+<a href="https://www.yogvidwankhede.com"><img src="./assets/soc-portfolio.svg?v=1" height="34" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/yogvid-wankhede-149103231/"><img src="./assets/soc-linkedin.svg?v=1" height="34" alt="LinkedIn"/></a>
+<a href="mailto:yogvidwankhede@gmail.com"><img src="./assets/soc-email.svg?v=1" height="34" alt="Email"/></a>
+<a href="https://huggingface.co/yogvidwankhede"><img src="./assets/soc-hf.svg?v=1" height="34" alt="Hugging Face"/></a>
 &nbsp;<img src="https://komarev.com/ghpvc/?username=yogvidwankhede&style=flat-square&color=22d3ee&label=VISITORS" height="26"/>
 
 </div>

@@ -19,18 +19,18 @@
 
 <table>
 <tr>
-<td width="75%" valign="top">
+<td width="60%" valign="top">
 <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake-live.svg?c=w5" />
 <br/><br/>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogvidwankhede&bg_color=0A0F1C&color=22D3EE&line=818CF8&point=34D399&area=true&hide_border=true&hide_title=true" alt="contribution activity graph"/>
 </td>
-<td width="25%" valign="top">
-<a href="https://github.com/yogvidwankhede/vishwakarma"><img src="./assets/vishwakarma.svg?v=1" width="100%" alt="vishwakarma"/></a><br/>
-<a href="https://github.com/yogvidwankhede/HealthMate-AI"><img src="./assets/healthmate.svg?v=1" width="100%" alt="HealthMate-AI"/></a><br/>
-<a href="https://github.com/yogvidwankhede/Sign_Language_Interpreter"><img src="./assets/sign.svg?v=1" width="100%" alt="Sign Language Interpreter"/></a><br/>
-<a href="https://github.com/yogvidwankhede/Fake_News_Detection"><img src="./assets/fake.svg?v=1" width="100%" alt="Fake News Detection"/></a><br/>
-<a href="https://github.com/yogvidwankhede/sentiment-api"><img src="./assets/sentiment.svg?v=1" width="100%" alt="sentiment-api"/></a><br/>
-<a href="https://github.com/yogvidwankhede/private-dns-extension"><img src="./assets/dns.svg?v=1" width="100%" alt="private-dns-extension"/></a>
+<td width="40%" valign="top">
+<a href="https://github.com/yogvidwankhede/vishwakarma"><img src="./assets/vishwakarma.svg?v=2" width="100%" alt="vishwakarma"/></a><br/><br/>
+<a href="https://github.com/yogvidwankhede/HealthMate-AI"><img src="./assets/healthmate.svg?v=2" width="100%" alt="HealthMate-AI"/></a><br/><br/>
+<a href="https://github.com/yogvidwankhede/Sign_Language_Interpreter"><img src="./assets/sign.svg?v=2" width="100%" alt="Sign Language Interpreter"/></a><br/><br/>
+<a href="https://github.com/yogvidwankhede/Fake_News_Detection"><img src="./assets/fake.svg?v=2" width="100%" alt="Fake News Detection"/></a><br/><br/>
+<a href="https://github.com/yogvidwankhede/sentiment-api"><img src="./assets/sentiment.svg?v=2" width="100%" alt="sentiment-api"/></a><br/><br/>
+<a href="https://github.com/yogvidwankhede/private-dns-extension"><img src="./assets/dns.svg?v=2" width="100%" alt="private-dns-extension"/></a>
 </td>
 </tr>
 </table>

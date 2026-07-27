@@ -21,7 +21,7 @@
 <table>
 <tr>
 <td valign="top" width="56%">
-<img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake-live.svg" />
+<img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake-live.svg?c=w" />
 <br/><br/>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogvidwankhede&bg_color=0A0F1C&color=22D3EE&line=818CF8&point=34D399&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="contribution activity graph"/>
 </td>

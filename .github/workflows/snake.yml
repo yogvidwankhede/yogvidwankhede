@@ -18,17 +18,18 @@ jobs:
           outputs: |
             dist/snake-live.svg?palette=github-dark&color_snake=white
             dist/snake-live-dark.svg?palette=github-dark&color_snake=white
-      - name: Trim snake (drop progress bar + crop blank top/bottom)
+      - name: Trim snake (drop progress bar + one-box gap top/bottom)
         run: |
+          mkdir -p out
           for f in dist/*.svg; do
-            sed -i 's/-16 -32 \([0-9]*\) 192/-16 -6 \1 120/' "$f"
-            sed -i 's/height="192"/height="120"/g' "$f"
-            sed -i 's#<rect class="u[^>]*/>##g' "$f"
+            sed -e 's/-16 -32 \([0-9]*\) 192/-16 -14 \1 140/' \
+                -e 's/height="192"/height="140"/g' \
+                -e 's#<rect class="u[^>]*/>##g' "$f" > "out/$(basename "$f")"
           done
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: out
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

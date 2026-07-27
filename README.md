@@ -20,36 +20,24 @@
 
 <table>
 <tr>
-<td valign="top" width="54%">
-<img src="./assets/whoami.svg?v=1" width="100%" alt="whoami --verbose — Yogvid Wankhede"/>
-</td>
-<td valign="top" width="46%">
-<div align="center"><b>&#9670; PINNED PROJECTS &#9670;</b></div>
+<td valign="top" width="56%">
+<div align="center"><b>&#9670; CONTRIBUTION SNAKE &#9670;</b></div>
 <br/>
-
+<img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake.svg?v=2" />
+<br/><br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogvidwankhede&bg_color=0A0F1C&color=22D3EE&line=818CF8&point=34D399&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="contribution activity graph"/>
+</td>
+<td valign="top" width="44%">
+<div align="center"><b>&#9670; PROJECTS &#9670;</b></div>
+<br/>
 <a href="https://github.com/yogvidwankhede/vishwakarma"><img src="./assets/vishwakarma.svg?v=1" width="100%" alt="vishwakarma"/></a><br/>
 <a href="https://github.com/yogvidwankhede/HealthMate-AI"><img src="./assets/healthmate.svg?v=1" width="100%" alt="HealthMate-AI"/></a><br/>
 <a href="https://github.com/yogvidwankhede/Sign_Language_Interpreter"><img src="./assets/sign.svg?v=1" width="100%" alt="Sign Language Interpreter"/></a><br/>
 <a href="https://github.com/yogvidwankhede/Fake_News_Detection"><img src="./assets/fake.svg?v=1" width="100%" alt="Fake News Detection"/></a><br/>
 <a href="https://github.com/yogvidwankhede/sentiment-api"><img src="./assets/sentiment.svg?v=1" width="100%" alt="sentiment-api"/></a><br/>
 <a href="https://github.com/yogvidwankhede/private-dns-extension"><img src="./assets/dns.svg?v=1" width="100%" alt="private-dns-extension"/></a>
-
 </td>
 </tr>
 </table>
-
----
-
-## 📊  `~/contributions`
-
-<div align="center">
-
-<img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake.svg?v=2" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogvidwankhede&bg_color=0A0F1C&color=22D3EE&line=818CF8&point=34D399&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="contribution activity graph"/>
-
-</div>
 
 <div align="center"><sub>&copy; 2026 Yogvid Wankhede &middot; <code>open_to_opportunities</code> &middot; <a href="mailto:yogvidwankhede@gmail.com">yogvidwankhede@gmail.com</a></sub></div>

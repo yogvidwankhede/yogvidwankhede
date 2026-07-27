@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-label="Yogvid Wankhede — AI Engineer, Full-Stack Developer, Experience Creator">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-label="Yogvid Wankhede — AI Engineer, Full-Stack Developer, ML Engineer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#05060a"/>
@@ -92,7 +92,7 @@
     <text x="600" y="250" fill="#818cf8">FULL-STACK DEVELOPER
       <animate attributeName="opacity" values="0;0;0;1;1;0;0;0" dur="9s" repeatCount="indefinite"/>
     </text>
-    <text x="600" y="250" fill="#34d399">GAME / EXPERIENCE CREATOR
+    <text x="600" y="250" fill="#34d399">ML ENGINEER
       <animate attributeName="opacity" values="0;0;0;0;0;1;1;0" dur="9s" repeatCount="indefinite"/>
     </text>
   </g>

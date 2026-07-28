@@ -19,26 +19,6 @@
 
 <div align="center">
 
-## Yogvid Wankhede — AI/ML Engineer &amp; Full-Stack Developer
-
-</div>
-
-**Yogvid Wankhede** is an AI/ML Engineer, Full-Stack Developer, and ML Engineer based in St. Louis, Missouri, pursuing an M.S. in Data Analytics &amp; Statistics at Washington University in St. Louis and building production LLM agents at EUNO. Portfolio: **[yogvidwankhede.com](https://www.yogvidwankhede.com)** · [LinkedIn](https://www.linkedin.com/in/yogvid-wankhede-149103231/)
-
-<details>
-<summary><b>More about Yogvid Wankhede</b></summary>
-
-<br/>
-
-**Yogvid Wankhede** specializes in Large Language Model (LLM) agents, Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), and Computer Vision, using Python, TypeScript, PyTorch, TensorFlow, LangGraph, and the Claude API. Selected projects by Yogvid Wankhede include **HealthMate-AI** (a RAG medical chatbot), a **Real-Time Sign Language Interpreter** (MediaPipe + Dynamic Time Warping, published in Springer Nature), an **Image Captioning system with text-to-speech**, a **multilingual Sentiment Analysis API**, **PyShell**, and **PyGrep**. Anthropic-certified in AI Fluency and Claude 101.
-
-- 🌐 Portfolio / website: https://www.yogvidwankhede.com
-- 💼 LinkedIn: https://www.linkedin.com/in/yogvid-wankhede-149103231/
-- 🤗 Hugging Face: https://huggingface.co/yogvidwankhede
-- 📧 Email: yogvidwankhede@gmail.com
-
-</details>
-
 
 <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yogvidwankhede/yogvidwankhede/output/snake-live.svg?c=w5" />
 

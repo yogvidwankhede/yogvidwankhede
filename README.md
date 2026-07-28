@@ -27,7 +27,7 @@
 
 <br/>
 
-<table>
+<!-- <table>
 <tr>
 <td width="33%"><a href="https://github.com/yogvidwankhede/Sign_Language_Interpreter"><img src="./assets/pj-signlang.svg?v=1" width="100%" alt="Sign Language"/></a></td>
 <td width="33%"><a href="https://github.com/yogvidwankhede/vishwakarma"><img src="./assets/pj-vishwakarma.svg?v=1" width="100%" alt="vishwakarma"/></a></td>
@@ -60,4 +60,4 @@
 </tr>
 </table>
 
-<div align="center"><sub>&copy; 2026 Yogvid Wankhede &middot; <code>open_to_opportunities</code> &middot; <a href="mailto:yogvidwankhede@gmail.com">yogvidwankhede@gmail.com</a></sub></div>
+<div align="center"><sub>&copy; 2026 Yogvid Wankhede &middot; <code>open_to_opportunities</code> &middot; <a href="mailto:yogvidwankhede@gmail.com">yogvidwankhede@gmail.com</a></sub></div> -->
